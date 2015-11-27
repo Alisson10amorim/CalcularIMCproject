@@ -37,11 +37,11 @@ public class CalculoIMC1
  
  if (imc1 > imc2)
  {
- System.out.println("A Pessoa \""+nome1+"\" tem Maior IMC");
+ System.out.println(nome1+"\" tem Maior IMC");
  }
  else
  {
- System.out.println("A Pessoa \""+nome2+"\" tem Maior IMC");
+ System.out.println(nome2+"\" tem Maior IMC");
  }
  } 
 
